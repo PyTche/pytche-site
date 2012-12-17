@@ -28,7 +28,7 @@ Filipe Cifali Stangler
 
 **Cidade**: Porto Alegre / RS
 
-`Github <https://github.com/filipecifali>`_, `Twitter @FilipeCifali <https://twitter.com/FilipeCifali>`_, `Linkedin <http://br.linkedin.com/pub/filipe-cifali/35/641/a7702>`_.
+`Github <https://github.com/filipecifali>`_, `Twitter @FilipeCifali <https://twitter.com/FilipeCifali>`_, `Linkedin <http://www.linkedin.com/pub/filipe-cifali/35/641/a77>`_.
 
 
 Projetos
