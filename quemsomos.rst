@@ -22,6 +22,15 @@ Christian S. Perone
 
 `Github <https://github.com/perone>`_, `Twitter @tarantulae <https://twitter.com/tarantulae>`_, `Linkedin <http://www.linkedin.com/pub/christian-perone/2/95a/102>`_.
 
+Filipe Cifali Stangler
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Nome**: Filipe Cifali Stangler
+
+**Cidade**: Porto Alegre / RS
+
+`Github <https://github.com/filipecifali>`_, `Twitter @FilipeCifali <https://twitter.com/FilipeCifali>`_, `Linkedin <http://br.linkedin.com/pub/filipe-cifali/35/641/a7702>`_.
+
+
 Projetos
 ----------------------------------
 Veja nesta seção os projetos do PyTche.
