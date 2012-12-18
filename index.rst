@@ -5,6 +5,9 @@ Bem-vindo ao PyTchê !
           visite a seção :ref:`site-pytche` para obter mais informações
           de como você pode colaborar !
 
+.. warning:: Participe do nosso Dojo nesta próxima Quinta-Feira, para mais informações
+             acesse :ref:`dojo_20dez2012` !
+
 Última alteração do site em |today|.
 
 Conteúdo:
