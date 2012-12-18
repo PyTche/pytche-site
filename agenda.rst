@@ -5,7 +5,7 @@ Nesta seção você encontrará informações sobre os eventos realizados pelo P
 Dojos
 -----------------------------------
 
-18 de Dezembro de 2012
+20 de Dezembro de 2012
 ^^^^^^^^^^^^^^^^^^^^^^
 
 **Horário** : das 19:30 as 21:00
