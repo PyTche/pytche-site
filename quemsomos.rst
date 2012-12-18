@@ -60,3 +60,25 @@ Utilizamos o `Sphinx <http://sphinx-doc.org>`_ para gerar o conteúdo estático 
 
 Você pode colaborar com o conteúdo do nosso site fazendo um *fork* e posteriormente um *pull-request* com as suas alterações, nosso site é todo *open-source* e está disponível no Github em `pytche-site <https://github.com/PyTche/pytche-site>`_.
 
+Para fazer um *clone* do repositório do site (pytche-site), basta digitar na linha de comando::
+
+    # git clone https://github.com/PyTche/pytche-site.git
+
+Você precisará instalar também o **Sphinx** e as dependências do Sphinx para poder gerar o conteúdo estático do site::
+
+    # pip install sphinx
+
+Após fazer as suas alterações basta rodar::
+
+   # make html
+
+para gerar o conteúdo estático do site que será gerado no diretório `_build`. Não esqueça de fazer um *pull-request* ou um *push* com as suas alterações para o repositório principal.
+
+
+
+
+
+
+
+
+
