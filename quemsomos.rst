@@ -48,6 +48,14 @@ Sérgio Berlotto
 `Facebook <https://facebook.com/sergio.berlotto>`__,
 `Blog <http://pythonrs.wordpress.com>`__
 
+Arnaldo Russo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Nome**: Arnaldo Russo
+**Cidade**: Rio Grande / RS
+
+`Github <https://github.com/arnaldorusso>`__,
+`Blog <http://ciclotux.blogspot.com>`__
+
 Projetos
 ----------------------------------
 Veja nesta seção os projetos do PyTche.
