@@ -51,6 +51,7 @@ Sérgio Berlotto
 Arnaldo Russo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 **Nome**: Arnaldo Russo
+
 **Cidade**: Rio Grande / RS
 
 `Github <https://github.com/arnaldorusso>`__,
