@@ -30,6 +30,16 @@ Filipe Cifali Stangler
 
 `Github <https://github.com/filipecifali>`_, `Twitter @FilipeCifali <https://twitter.com/FilipeCifali>`_, `Linkedin <http://www.linkedin.com/pub/filipe-cifali/35/641/a77>`_.
 
+Sérgio Berlotto
+^^^^^^^^^^^^^^^
+**Nome**: Sérgio Hilton Berlotto Junior
+
+**Cidade**: Gravataí / RS
+
+**Profissional**: Desenvolvedor python em `Gabinete Digital <http://gabinetedigital.rs.gov.br>`_
+
+`Github <https://github.com/berlotto>`_, `Twitter <https://twitter.com/berlottocdd>`_, `Linkedin <http://br.linkedin.com/in/sergioberlotto>`_, `Facebook <https://facebook.com/sergio.berlotto>`_, `Blog <http://pythonrs.wordpress.com>`_
+
 
 Projetos
 ----------------------------------
