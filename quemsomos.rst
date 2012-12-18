@@ -20,7 +20,9 @@ Christian S. Perone
 
 **Cidade**: Porto Alegre / RS
 
-`Github <https://github.com/perone>`_, `Twitter @tarantulae <https://twitter.com/tarantulae>`_, `Linkedin <http://www.linkedin.com/pub/christian-perone/2/95a/102>`_.
+`Github <https://github.com/perone>`__,
+`Twitter @tarantulae <https://twitter.com/tarantulae>`__,
+`Linkedin <http://www.linkedin.com/pub/christian-perone/2/95a/102>`__.
 
 Filipe Cifali Stangler
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,7 +30,9 @@ Filipe Cifali Stangler
 
 **Cidade**: Porto Alegre / RS
 
-`Github <https://github.com/filipecifali>`_, `Twitter @FilipeCifali <https://twitter.com/FilipeCifali>`_, `Linkedin <http://www.linkedin.com/pub/filipe-cifali/35/641/a77>`_.
+`Github <https://github.com/filipecifali>`__,
+`Twitter @FilipeCifali <https://twitter.com/FilipeCifali>`__,
+`Linkedin <http://www.linkedin.com/pub/filipe-cifali/35/641/a77>`__.
 
 Sérgio Berlotto
 ^^^^^^^^^^^^^^^
@@ -38,8 +42,11 @@ Sérgio Berlotto
 
 **Profissional**: Desenvolvedor python em `Gabinete Digital <http://gabinetedigital.rs.gov.br>`_
 
-`Github <https://github.com/berlotto>`_, `Twitter <https://twitter.com/berlottocdd>`_, `Linkedin <http://br.linkedin.com/in/sergioberlotto>`_, `Facebook <https://facebook.com/sergio.berlotto>`_, `Blog <http://pythonrs.wordpress.com>`_
-
+`Github <https://github.com/berlotto>`__,
+`Twitter <https://twitter.com/berlottocdd>`__,
+`Linkedin <http://br.linkedin.com/in/sergioberlotto>`__,
+`Facebook <https://facebook.com/sergio.berlotto>`__,
+`Blog <http://pythonrs.wordpress.com>`__
 
 Projetos
 ----------------------------------
