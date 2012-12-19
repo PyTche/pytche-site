@@ -81,8 +81,8 @@ Leonardo Salvadori
 
 **Cidade**: Bento Gonçalves / RS
 
-`Github: https://github.com/leosalvadori`__,
-`Facebook: https://www.facebook.com/leonardo.salvadori.1`__,
+`Github: https://github.com/leosalvadori`,
+`Facebook: https://www.facebook.com/leonardo.salvadori.1`,
 
 Projetos
 ----------------------------------
