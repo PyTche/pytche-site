@@ -1,4 +1,4 @@
-Quem somos ?
+﻿Quem somos ?
 ==================================
 .. todo:: Preencher com dados dos membros, interesses, etc.
 
@@ -56,6 +56,15 @@ Arnaldo Russo
 
 `Github <https://github.com/arnaldorusso>`__,
 `Blog <http://ciclotux.blogspot.com>`__
+
+Maurício Sipmann
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Nome**: Maurício Camargo Sipmann
+
+**Cidade**: Três de Maio / RS
+
+`Github <https://github.com/sipmann>`__,
+`Facebook <https://www.facebook.com/sipmann>`__,
 
 Projetos
 ----------------------------------
