@@ -66,6 +66,15 @@ Maurício Sipmann
 `Github <https://github.com/sipmann>`__,
 `Facebook <https://www.facebook.com/sipmann>`__,
 
+Ronan T. de Jesus
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Nome**: Ronan T. de Jesus
+
+**Cidade**: São Leopoldo / RS
+
+`Github <https://github.com/ronan-jesus>`__,
+`Facebook <https://www.facebook.com/ronanteodoro.dejesus>`__,
+
 Projetos
 ----------------------------------
 Veja nesta seção os projetos do PyTche.
