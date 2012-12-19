@@ -75,6 +75,15 @@ Ronan T. de Jesus
 `Github <https://github.com/ronan-jesus>`__,
 `Facebook <https://www.facebook.com/ronanteodoro.dejesus>`__,
 
+Leonardo Salvadori
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Nome**: Leonardo Salvadori
+
+**Cidade**: Bento Gonçalves / RS
+
+`Github: https://github.com/leosalvadori`__,
+`Facebook: https://www.facebook.com/leonardo.salvadori.1`__,
+
 Projetos
 ----------------------------------
 Veja nesta seção os projetos do PyTche.
