@@ -28,6 +28,14 @@ Dojo de 20 de Dezembro de 2012
 * Mouse USB
 * Projetor 
 
+Dojo de 07 de Fevereiro de 2013
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Horário** : das 19:30 as 21:00
+
+**Local** : `Bunker360`_, espaço do `Matehackers`_
+
+
 Eventos
 -------------------------------------------------------------------------------
 
